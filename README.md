@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul3613
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning Django
+- 🌱 Good at Django
 - 💞️ I’m looking to collaborate on WebApp Develoment
 - 📫 How to reach me through rahul.vishwakarma@niser.ac.in
 
