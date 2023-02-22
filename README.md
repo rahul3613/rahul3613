@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul3613
-- 👀 I’m interested in Data Science and Web Development
+- 👀 I’m interested in Automated Theorem Proving and Deep Learning
 - 📫 Reach me through rahul.vishwakarma@niser.ac.in
 
 <!---
