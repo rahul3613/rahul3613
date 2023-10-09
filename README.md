@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul3613
-- 👀 I’m interested in Automated Theorem Proving and Deep Learning
+- 👀 I’m working on Neural Theorem Proving.
 - 📫 Reach me through rahul.vishwakarma@niser.ac.in
 
 <!---
