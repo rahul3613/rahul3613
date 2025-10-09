@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @rahul3613
-- 👀 I’m working on Neural Theorem Proving.
-- 📫 Reach me through rahul.vishwakarma@niser.ac.in
+👋 Hi, I’m Rahul Vishwakarma (@rahul3613)
+
+🎓 I hold an Integrated MSc in Mathematics & Computer Science from NISER Bhubaneswar.  
+💼 Currently working at BHERI Tech Foundation (IIT Hyderabad) on AI agents for Indian heritage knowledge.  
+🧠 My primary research focus is on Neural Theorem Proving — using LLMs to prove mathematical theorems in formal environments.  
+⚙️ Experienced in developing LLM-based agents, fine-tuning models, and backend-focused web development.  
+🔍 Interested in applied research roles in AI reasoning systems.  
+
+📫 Reach me at rahulvishwakarma3613@gmail.com
+
 
 <!---
 rahul3613/rahul3613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
