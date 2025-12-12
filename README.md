@@ -2,9 +2,8 @@
 
 🎓 I hold an Integrated MSc in Mathematics & Computer Science from NISER Bhubaneswar.  
 💼 Currently working at BHERI Tech Foundation (IIT Hyderabad) on AI agents for Indian heritage knowledge.  
-🧠 My primary research focus is on Neural Theorem Proving — using LLMs to prove mathematical theorems in formal environments.  
-⚙️ Experienced in developing LLM-based agents, fine-tuning models, and backend-focused web development.  
-🔍 Interested in applied research roles in AI reasoning systems.  
+🧠 My primary research interests lie in using AI to do mathematics.
+⚙️ Experienced in developing LLM-based agents, fine-tuning models, and backend-focused web development.
 
 📫 Reach me at rahulvishwakarma3613@gmail.com
 
