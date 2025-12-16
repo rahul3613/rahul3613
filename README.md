@@ -2,8 +2,8 @@
 
 🎓 I hold an Integrated MSc in Mathematics & Computer Science from NISER Bhubaneswar.  
 💼 Currently working at BHERI Tech Foundation (IIT Hyderabad) on AI agents for Indian heritage knowledge.  
-🧠 My primary research interests lie in using AI to do mathematics.
-⚙️ Experienced in developing LLM-based agents, fine-tuning models, and backend-focused web development.
+🧠 My primary research interests lie in using AI to do mathematics.  
+⚙️ Experienced in training LLMs, developing LLM-based agents, and backend-focused web development.
 
 📫 Reach me at rahulvishwakarma3613@gmail.com
 
